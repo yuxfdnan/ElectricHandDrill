@@ -2,3 +2,7 @@
 *.SchDocPreview
 *.Zip
 *.SchDocPreview
+*.LOG
+*.PcbDocPreview
+*.PrjPCBStructure
+*.htm
