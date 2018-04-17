@@ -147,6 +147,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for 手电钻电机驱动板V\手电钻电机驱动板V.NET
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=手电钻驱动板V.PcbDoc.htm
 DItemRevisionGUID=
 
@@ -225,11 +229,15 @@ OutputName13=Protel2 Netlist
 OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
+Configuration13_Name1=OutputConfigurationParameter1
+Configuration13_Item1=Netli
 OutputType14=ProtelNetlist
 OutputName14=Protel
 OutputDocumentPath14=
 OutputVariantName14=
 OutputDefault14=0
+Configuration14_Name1=OutputConfigurationParameter1
+Configuration14_Item1=NetlistVersion=0|Record=ProtelNetlistView
 OutputType15=RacalNetlist
 OutputName15=Racal Netlist
 OutputDocumentPath15=
