@@ -1,0 +1,34 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~手电钻电机驱动板V.PrjPCB|ReportField=ProjectFullPath~D:\Project\PCB\【私】\手电钻\手电钻驱动板\手电钻电机驱动板V.PrjPCB|ReportField=Title~Bill of Materials For Project [手电钻电机驱动板V.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~105|ReportField=ReportTime~21:35:32|ReportField=ReportDate~2018-04-22|ReportField=ReportDateTime~2018-04-22 21:35:32|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2018-04-22|ReportField=CurrentTime~21:33:30|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\Project\PCB\【私】\手电钻\手电钻驱动板\手电钻驱动板V.SchDoc|ReportField=DocumentName~手电钻驱动板V.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2018-04-16|ReportField=Organization~|ReportField=ProjectName~手电钻电机驱动板V.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~手电钻电机驱动板V.PrjPCB|ReportField=DataSourceFullPath~D:\Project\PCB\【私】\手电钻\手电钻驱动板\手电钻电机驱动板V.PrjPCB
+10uF 10% 50V|Capacitor (Semiconductor SIM Model), 贴片电容|C1, C15, C21, C27, C51, C53, C55, C61, C64|0805_C|9
+0.1uF 10% 50V|Capacitor (Semiconductor SIM Model), 贴片电容|C2, C4, C5, C7, C8, C10, C16, C17, C25, C26, C52, C54, C56, C62, C63, C71, C72, C-NRST|0603_C|18
+1uF 10% 50V|贴片电容|C18, C19, C20|0805_C|3
+22pF 10% 50V|贴片电容|C-Y1, C-Y2|0603_C|2
+330uF 35V电解电容|Polarized Capacitor (Radial)|Cin|330uf/35V|1
+1N5819W  SL|肖特基二极管|D1, D2, D3, D4, D5|SOD-123|5
+ES2JA|二极管|D6|SMA(DO-214AC)_S1|1
+SMBJ 240A|TVS|D99|SMB(DO-214AA)_S1|1
+测试点|Generic Antenna|E1, E2, E3, E4, E5, E6, E7|Test|7
+翠绿 0805|发光二极管|LED1, LED2, LED3|0805_LED_S1|3
+Header 2|Header, 2-Pin|P1|2星座子|1
+TPCA8057-H|MOSFETsSilicon N-Channel MOS (U-MOS-H)|Q1, Q2, Q3, Q4, Q5, Q6|TPCA8057-H|6
+4.7KΩ ±10%|贴片电阻|R2, R3|0603_R|2
+20KΩ ±1%|贴片电阻|R4, R6, R8, R51, R52, R53|0603_R|6
+2.4KΩ ±1%|贴片电阻|R5, R7, R9|0603_R|3
+81Ω ±1%|贴片电阻|R10, R27, R35, R36, R40|0603_R|5
+5.1Ω ±1%|贴片电阻|R12|1206_R|1
+100Ω ±1%|贴片电阻|R13|0603_R|1
+51KΩ ±10%|贴片电阻|R14|0603_R|1
+51Ω ±1%|贴片电阻|R15, R16, R17, R21, R22, R23|0603_R|6
+100KΩ ±10%|贴片电阻|R18, R19, R20, R24, R25, R26|0603_R|6
+0.002Ω ±1%|贴片电阻|R28|RESC2512(6432)_M|1
+10KΩ ±10%|贴片电阻|R34, R-boot, R_NRST|0603_R|3
+1MΩ ±10%|贴片电阻|R37|0603_R|1
+270Ω ±10%|贴片电阻|R43, R44, R45|0603_R|3
+SW-DPST|Double-Pole, Single-Throw Switch|S1, S2|SW1|2
+Header 4|Header, 4-Pin|SWD|FPC_1.25_4P|1
+Header 8|Header, 8-Pin|Switch|SH1.0mm-8P|1
+FD6288T|USB to TTL Serial / UART|U3|TSSOP20_M|1
+STM32F030K6T6||U4|STM-LQFP32_M|1
+AMS1117-3.3|低压差线性稳压(LDO)|VR1|SOT-223|1
+AMS1117-5.0|低压差线性稳压(LDO)|VR2|SOT-223|1
+8M|Crystal Oscillator|Y1|XTAL|1
